@@ -66,11 +66,7 @@ $ cd real-state-website
 
 # 🚧 Project:
 
-### [Live project!](https://) 🚀
-
-# 🎨 Inspiration:
-
-### 
+### [Live project!](https://holux.bohr.io/) 🚀
 
 # 📝 License:
 
